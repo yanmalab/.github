@@ -1,4 +1,4 @@
-Welcome to the GitHub page of Yan Ma lab!
+## Welcome to the GitHub page of Yan Ma lab!
 
 You can find us at the Gregor Mendel Institute of Molecular Plant Biology at the Austrian Academy of Sciences.
 
